@@ -1,0 +1,18 @@
+ros-eloquent-dolly-gazebo (0.2.0-1bionic) bionic; urgency=high
+
+  * Port to Eloquent (#9 <https://github.com/chapulina/dolly/issues/9>)
+    * Port to Eloquent
+    * Update README
+    Signed-off-by: Louise Poubel <mailto:louise@openrobotics.org>
+  * Contributors: chapulina
+
+ -- Louise Poubel <burajiru.no.chapulina@gmail.com>  Mon, 06 Jan 2020 08:00:00 -0000
+
+ros-eloquent-dolly-gazebo (0.1.1-1bionic) bionic; urgency=high
+
+  * First Dolly release
+  * Contributors: chapulina
+
+ -- Louise Poubel <burajiru.no.chapulina@gmail.com>  Mon, 06 Jan 2020 08:00:00 -0000
+
+
