@@ -1,0 +1,14 @@
+ros-foxy-dolly-ignition (0.3.0-1focal) focal; urgency=high
+
+  * Foxy support (#18 <https://github.com/chapulina/dolly/issues/18>)
+  * A few tweaks to the Ignition package (#14 <https://github.com/chapulina/dolly/issues/14>)
+  * Ignition support (#13 <https://github.com/chapulina/dolly/issues/13>)
+  * Contributors: Louise Poubel
+  * Foxy support (#18 <https://github.com/chapulina/dolly/issues/18>)
+  * A few tweaks to the Ignition package (#14 <https://github.com/chapulina/dolly/issues/14>)
+  * Ignition support (#13 <https://github.com/chapulina/dolly/issues/13>)
+  * Contributors: Louise Poubel
+
+ -- Louise Poubel <burajiru.no.chapulina@gmail.com>  Sun, 09 Aug 2020 07:00:00 -0000
+
+
