@@ -1,0 +1,12 @@
+Source: ros-foxy-dolly-follow
+Section: misc
+Priority: optional
+Maintainer: Louise Poubel <burajiru.no.chapulina@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ament-lint-auto, ros-foxy-ament-lint-common, ros-foxy-geometry-msgs, ros-foxy-rclcpp, ros-foxy-sensor-msgs, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-dolly-follow
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-geometry-msgs, ros-foxy-rclcpp, ros-foxy-sensor-msgs, ros-foxy-ros-workspace
+Description: Follow node for Dolly, the robot sheep.
