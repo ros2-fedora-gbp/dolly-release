@@ -1,3 +1,30 @@
+## dolly (rolling) - 0.4.0-1
+
+The packages in the `dolly` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling dolly` on `Mon, 11 Oct 2021 04:14:47 -0000`
+
+These packages were released:
+- `dolly`
+- `dolly_follow`
+- `dolly_gazebo`
+- `dolly_ignition`
+
+Version of package(s) in repository `dolly`:
+
+- upstream repository: https://github.com/chapulina/dolly.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## dolly (galactic) - 0.4.0-1
 
 The packages in the `dolly` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic dolly` on `Mon, 11 Oct 2021 03:46:56 -0000`
