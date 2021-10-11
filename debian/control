@@ -1,0 +1,12 @@
+Source: ros-galactic-dolly
+Section: misc
+Priority: optional
+Maintainer: Louise Poubel <burajiru.no.chapulina@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ament-lint-auto, ros-galactic-ament-lint-common, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-dolly
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-dolly-follow, ros-galactic-dolly-gazebo, ros-galactic-dolly-ignition, ros-galactic-ros-workspace
+Description: Meta-package for Dolly, the robot sheep.
