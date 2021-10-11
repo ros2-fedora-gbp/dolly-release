@@ -2,6 +2,9 @@
 Changelog for package dolly
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2021-10-10)
+------------------
+
 0.3.0 (2020-08-09)
 ------------------
 * Ignition support (`#13 <https://github.com/chapulina/dolly/issues/13>`_)
