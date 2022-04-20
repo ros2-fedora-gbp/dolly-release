@@ -1,0 +1,22 @@
+ros-humble-dolly-ignition (0.4.0-3bullseye) bullseye; urgency=high
+
+  * Galactic + Edifice support
+  * Make ros_ign_gazebo more than exec_depend (#26 <https://github.com/chapulina/dolly/issues/26>)
+  * Contributors: Louise Poubel
+
+ -- Louise Poubel <burajiru.no.chapulina@gmail.com>  Sun, 10 Oct 2021 07:00:00 -0000
+
+ros-humble-dolly-ignition (0.3.0-3bullseye) bullseye; urgency=high
+
+  * Foxy support (#18 <https://github.com/chapulina/dolly/issues/18>)
+  * A few tweaks to the Ignition package (#14 <https://github.com/chapulina/dolly/issues/14>)
+  * Ignition support (#13 <https://github.com/chapulina/dolly/issues/13>)
+  * Contributors: Louise Poubel
+  * Foxy support (#18 <https://github.com/chapulina/dolly/issues/18>)
+  * A few tweaks to the Ignition package (#14 <https://github.com/chapulina/dolly/issues/14>)
+  * Ignition support (#13 <https://github.com/chapulina/dolly/issues/13>)
+  * Contributors: Louise Poubel
+
+ -- Louise Poubel <burajiru.no.chapulina@gmail.com>  Sun, 09 Aug 2020 07:00:00 -0000
+
+
