@@ -1,0 +1,12 @@
+Source: ros-humble-dolly-gazebo
+Section: misc
+Priority: optional
+Maintainer: Louise Poubel <burajiru.no.chapulina@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-dolly-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-dolly-follow, ros-humble-gazebo-ros-pkgs, ros-humble-ros2launch, ros-humble-rviz2, ros-humble-ros-workspace
+Description: Launch Gazebo simulation with Dolly robot.
