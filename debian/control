@@ -1,0 +1,12 @@
+Source: ros-rolling-dolly-ignition
+Section: misc
+Priority: optional
+Maintainer: Louise Poubel <burajiru.no.chapulina@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-ros-ign-gazebo, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-dolly-ignition
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-dolly-follow, ros-rolling-ros-ign-bridge, ros-rolling-ros-ign-gazebo, ros-rolling-ros2launch, ros-rolling-rviz2, ros-rolling-ros-workspace
+Description: Launch Ignition simulation with Dolly robot.
